@@ -35,9 +35,30 @@
 # ant
 # """)
 
-# 12
-print("""
-  *
-* * *
-  *
-""")
+# # 12
+# print("""
+# \t*
+# *\t*\t*
+# \t*
+# """)
+
+# # 13
+# print("""
+# *\t+\t*
+# +\t*\t+
+# *\t+\t*
+# """)
+
+# # 14
+# print("""
+# Just because something
+# thinks different from you,
+# dose that mean it's not thinking ?
+# """)
+
+# # 15
+# print("""
+# \\\t\t/
+# \tx
+# /\t\t\\
+# """)
