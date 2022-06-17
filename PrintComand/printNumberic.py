@@ -1,23 +1,26 @@
+import math
+from math import pi
+
 # 1
-from cmath import pi
-
-
 print(25)
 # 1.1
 print("%d" % 25)
 
 # 2
 print("%f" % 100)
+print("%.6f" % 100)
 
-# 3.1
-print(pi)
-# 3.2
+# 3
+print(math.pi)
+print("%.15f" % pi)
 print("%s" % 3.141592653589793)
 
 # 4
 a = 2
 print("%d" % a)
+print("%.0f" % a)
 
 # 5
-b = 12.5
-print("%s" % b)
+a = 12.5
+print("%.1f" % a)
+print("%s" % a)
